@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rohan Chikkam Portfolio"
+title                    : "Rohan Chikkam"
 title_separator          : "-"
 name                     : &name "Rohan Chikkam"
 description              : &description "MIT MFin '26"
@@ -22,7 +22,7 @@ repository               : "chikro1/Personal-Website"
 author:
   # Biographic information
   avatar           : "Cafe.jpg"
-  name             : "Rohan Chikkam"
+  name             : "RC"
   pronouns         : # example: "she/her"  
   bio              : "MIT MFin '26"
   location         : "Boston, MA"
@@ -91,25 +91,6 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : "dark" # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  hide                   : true     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
 
 
 # SEO Related
