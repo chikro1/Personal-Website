@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Rohan Chikkam
-+44 743 747 6555 | chikro1@mit.edu | [linkedin.com/in/vssrc](https://linkedin.com/in/vssrc)
+PDF Version
+======
+Here[https://rchikkam.co.uk/CV.pdf]
 
 Education
 ======
