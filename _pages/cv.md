@@ -11,7 +11,7 @@ redirect_from:
 
 PDF Version
 ======
-Download it [here](assets/CV.pdf)
+Download it [here](CV.pdf)
 
 Education
 ======
