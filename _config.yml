@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rohan Chikkam"
+title                    : "Rohan Chikkam Portfolio"
 title_separator          : "-"
 name                     : &name "Rohan Chikkam"
 description              : &description "MIT MFin '26"
