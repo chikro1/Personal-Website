@@ -11,7 +11,7 @@ redirect_from:
 
 PDF Version
 ======
-Here[https://rchikkam.co.uk/CV.pdf]
+Download it from [here](https://rchikkam.co.uk/CV.pdf)
 
 Education
 ======
