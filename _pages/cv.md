@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Circulum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,30 +20,30 @@ Education
 
 Work experience
 ======
-* June 2023 – Sept. 2023: Quantitative Strategist Intern
-  * Goldman Sachs
+* **Goldman Sachs**
+  * June 2023 – Sept. 2023: Quantitative Strategist Intern, London
   * Duties included: 
     - Analyzed business needs and trades to optimize various liquidity metrics for new regulatory requirements
     - Designed and deployed brand-new models and algorithms to manage cross-entity asset transactions
     - Networked and worked with traders to understand effects of macro events on business objectives
-  * Supervisor: Return Offer Received
+  * Return Offer Received
 
-* June 2022 – Aug. 2022: Consultant Intern
-  * Capgemini
+* **Capgemini**
+  * June 2022 – Aug. 2022: Consultant Intern, Telford
   * Duties included:
     - Worked with Senior Consultants to source requirements from HMRC as part of Taxation Penalty Reform project
     - Developed and implemented, a first of its kind, open-source tool to automate SQL unit tests for company-wide testing
     - Advised on infrastructure and systems migration for future HMRC projects
 
-* June 2020 – Sept. 2020: Consultant Intern
-  * F-Secure
+* **WithSecure (Previously F-Secure and MWR Consulting)**
+  * June 2020 – Sept. 2020: Consultant Intern, Basingstoke
   * Duties included:
     - Selected by Global Cloud Lead to develop automated infrastructure testing tool for various IaaS providers
     - Networked with clients representing bulge banks operating in Investment Banking, Trading, and Asset Management
   * Supervisor: University bursary offer from GCHQ for 4-year sponsorship as company’s youngest intern
 
-* May 2022: Spring Work Experience
-  * Meta
+* **Meta (Previously Facebook)**
+  * May 2022: Spring Work Experience, Madrid
   * Duties included:
     - Participated in a highly competitive program hosted in Madrid, received advanced training by Meta and Google
     - Participated in bounty to find security vulnerabilities in Meta services, projects, and infrastructure
