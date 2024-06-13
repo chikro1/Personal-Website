@@ -24,9 +24,9 @@ author:
   avatar           : "Cafe.jpg"
   name             : "Rohan Chikkam"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "MIT MFin '26 | Warwick BSc Discrete Maths '24"
   location         : "Boston, MA"
-  employer         : "Sloan - Massachussets Institute of Technology"
+  employer         : "MIT Sloan"
   uri              : # URL
   email            : "hello@rchikkam.co.uk" 
 
@@ -90,7 +90,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -108,7 +108,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
