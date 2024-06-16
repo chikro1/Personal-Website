@@ -38,13 +38,17 @@ For a detailed read, please refer to the full dissertation [here](https://github
 
 ## Brotplot
 
+**Date:** September 25, 2020  
+
 Brotplot is an online tool developed to graphically plot the Mandelbrot set, a well-known fractal defined by a simple iterative function. The site allows users to generate and customize fractal images by adjusting various parameters, such as center coordinates, iterations, accuracy, and zoom level. Users can also set color schemes for the generated images. The tool offers different presets for fidelity, with higher fidelity images taking longer to generate.
 
 The project is open-source and hosted on GitHub, where contributors can access the source code and participate in its development. The Brotplot repository provides details about the project, including instructions and controls for using the plotter, such as centering, zooming, and saving images.
 
-For more information or to try out the tool, you can visit the Brotplot site [here](https://brotplot.rchikkam.co.uk). If you're interested in the development details or contributing to the project, check out its [GitHub repository](https://github.com/chikkamrohan/Brotplot).
+For more information or to try out the tool, you can visit Brotplot [here](https://brotplot.rchikkam.co.uk). If you're interested in the development details or contributing to the project, check out its [GitHub repository](https://github.com/chikkamrohan/Brotplot).
 
 ## SQLUnit
+
+**Date:** July 10, 2022
 
 SQLUnit is a tool designed to automate unit testing for SQL. The main goal is to facilitate the verification of database objects' functionality, ensuring that any changes to the database schema do not break existing functionality.
 
@@ -54,4 +58,4 @@ The process involves defining test logic using Transact-SQL, specifying conditio
 
 SQLUnit is hosted on GitLab, where the source code is available for further development and collaboration. The project aims to provide a comprehensive framework for SQL unit testing, making it easier for developers to maintain and verify database integrity during the development cycle.
 
-For more details, you can visit the [SQLUnit GitLab page](https://gitlab.com/chikro1/sqlunit) or explore the [Microsoft Learn documentation on SQL Server unit tests](https://learn.microsoft.com/en-us/sql/ssdt/how-to-create-and-run-a-sql-server-unit-test).
+For more details, you can visit [SQLUnit](https://sqlunit.rchikkam.co.uk) or the [GitLab page](https://gitlab.com/chikro1/sqlunit).
