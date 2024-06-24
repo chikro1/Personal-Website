@@ -34,7 +34,7 @@ This dissertation explores the evolution and complexity of option pricing models
 
 The dissertation highlights the strengths and weaknesses of existing models and demonstrates the potential of the new hybrid model in improving pricing accuracy, particularly in volatile markets.
 
-For a detailed read, please refer to the full dissertation [here](https://raw.githubusercontent.com/chikro1/Personal-Website/master/Dissertation.pdf).
+For a detailed read, please refer to the full dissertation [here](https://raw.githubusercontent.com/chikro1/Personal-Website/master/assets/Dissertation.pdf).
 
 ## Brotplot
 
