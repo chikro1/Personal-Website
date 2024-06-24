@@ -11,7 +11,7 @@ redirect_from:
 
 PDF Version
 ======
-Download it [here](https://raw.githubusercontent.com/chikro1/Personal-Website/master/CV.pdf)
+Download it [here](https://raw.githubusercontent.com/chikro1/Personal-Website/master/assets/CV.pdf)
 
 Education
 ======
